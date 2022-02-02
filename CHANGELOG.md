@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/yusufhoque/test-release/compare/v1.1.0...v1.1.1) (2022-02-02)
+
+
+### Bug Fixes
+
+* minor thing ([3860fde](https://github.com/yusufhoque/test-release/commit/3860fdef786b6bc1af5e94d068c4e09723c79fb6))
+
 ## [1.1.0](https://github.com/yusufhoque/test-release/compare/v1.0.0...v1.1.0) (2022-02-02)
 
 
